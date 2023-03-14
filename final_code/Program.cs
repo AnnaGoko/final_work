@@ -1,4 +1,5 @@
-﻿string[] FirstArray = new string[1];
+﻿Console.WriteLine ("Введите элементы массива через клавишу Enter. Напишите 'stop', чтобы перейти к выполнению задачи");
+string[] FirstArray = new string[1];
 string[] SecondArray = new string [0];
     int index = 0; 
     string element;
